@@ -6,7 +6,7 @@ const Header = () => {
       <a href="/">
         <h1>Synop</h1>
       </a>
-      <a href="https://github.com/shuvra-matrix/summarize-articles--MERN-">
+      <a href="">
         <p>GitHub</p>
       </a>
     </header>
